@@ -1,0 +1,13 @@
+vendor_id,vendor_name,country,city,tax_id,bank_account,email,phone,address,status,payment_terms,last_updated
+V1001,Acme Industrial Supplies,India,Pune,INAA1234567,A100012345678,ap@acme.example,+91-9876543210,Industrial Area Pune,Active,30,2026-08-15
+V1002,Global Steel Components,India,Mumbai,INBB2345678,B200023456789,finance@globalsteel.example,+91-9876543211,Andheri Mumbai,Active,45,2026-08-12
+V1003,Northstar Logistics,United Kingdom,London,GBCC3456789,C300034567890,accounts@northstar.example,+44-770000001,London Business Park,Active,30,2026-07-20
+V1004,North Star Logistics Ltd,United Kingdom,London,GBCC3456789,C300034567890,accounts@northstar.example,+44-770000001,London Business Park,Active,30,2026-07-21
+V1005,Delta Engineering,India,Nashik,,D500056789012,contact@delta.example,+91-9876543213,Satpur Nashik,Active,60,2026-08-01
+V1006,Evergreen Packaging,India,Pune,INFF6789012,,billing@evergreen.example,+91-9876543214,Chinchwad Pune,Active,30,2026-06-28
+V1007,Orion Manufacturing,United Arab Emirates,Dubai,AEGG7890123,E700078901234,,+971-500000005,Dubai Industrial City,Active,45,2026-08-10
+V1008,Acme Industrial Supply,India,Pune,INAA1234567,A100012345678,ap@acme.example,+91-9876543210,Industrial Area Pune,Active,30,2026-08-16
+V1009,BlueRiver Consulting,India,Bengaluru,INHH8901234,H900090123456,hello@blueriver.example,,Whitefield Bengaluru,Inactive,30,2026-05-10
+V1010,Vertex IT Services,India,Hyderabad,INII9012345,I100010234567,it@vertex.example,+91-9876543217,HITEC City Hyderabad,Active,30,2026-08-18
+V1011,Prime Office Solutions,India,Pune,INJJ0123456,J110011234568,admin@primeoffice.example,+91-9876543218,Kharadi Pune,Active,,2026-08-05
+V1012,Metro Components,India,Chennai,INKK1234567,K120012345679,finance@metro.example,+91-9876543219,Guindy Chennai,Active,30,2026-08-14
