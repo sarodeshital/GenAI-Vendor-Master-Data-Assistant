@@ -1,0 +1,6 @@
+pandas>=2.2
+streamlit>=1.40
+rapidfuzz>=3.9
+python-dotenv>=1.0
+openai>=1.50
+pytest>=8.0
