@@ -85,7 +85,7 @@ genai-vendor-master-data-assistant/
 ### 1. Clone
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/genai-vendor-master-data-assistant.git
+git clone https://github.com/shital_sarode/genai-vendor-master-data-assistant.git
 cd genai-vendor-master-data-assistant
 ```
 
