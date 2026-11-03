@@ -127,33 +127,4 @@ Copy `.env.example` to `.env` and add your API configuration.
 
 The application is designed so the deterministic data-quality engine remains the source of truth. The LLM is used to turn findings into natural-language explanations rather than inventing vendor facts.
 
-## Example Questions
 
-- Which vendors have incomplete master data?
-- Show vendors with high data-quality risk.
-- Are there possible duplicate vendors?
-- Why was vendor V1008 flagged?
-- Summarize the main vendor master issues.
-- What fields should be reviewed before vendor activation?
-
-## Interview Explanation
-
-### 30-second version
-
-"I built a GenAI Vendor Master Data Assistant that combines Python data-quality rules, fuzzy duplicate detection, SQL analysis and a natural-language assistant. It checks vendor master records for missing critical fields, invalid values, inactive records and possible duplicates. The GenAI layer converts those findings into explanations and recommended investigation steps. I deliberately kept the quality engine deterministic so the LLM doesn't invent business facts."
-
-### Key technical points
-
-- Pandas for validation and profiling
-- RapidFuzz for approximate vendor-name matching
-- SQLite/SQL for analytical queries
-- Streamlit for the application
-- LLM-ready assistant architecture
-- Explainable quality scoring
-- Synthetic data to avoid exposing confidential vendor information
-
-## Resume Bullet
-
-**GenAI Vendor Master Data Assistant | Python, SQL, Streamlit, GenAI, RapidFuzz**
-- Built an end-to-end GenAI assistant for vendor master-data quality analysis, combining Python validation, SQL analytics and fuzzy duplicate detection to identify incomplete and potentially duplicate vendor records.
-- Developed an explainable vendor quality scoring framework and natural-language interface that summarizes findings and suggests investigation actions while keeping deterministic data-quality checks as the source of truth.
